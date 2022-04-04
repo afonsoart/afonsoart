@@ -35,17 +35,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-
-
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
