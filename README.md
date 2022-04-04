@@ -24,13 +24,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Afonso Ramon</h1></img>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
+ 
   <a href="https://github.com/seu-usuario">
     <img
       align="center"
