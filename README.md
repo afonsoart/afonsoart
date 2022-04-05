@@ -1,5 +1,4 @@
 [![banner](./afonso_banner.png)](https://github.com/afonsoart)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -23,6 +22,7 @@
 <details>
 <summary>Mais...</summary>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Afonso Ramon</h1></img>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
 
 <p align="center">
  
