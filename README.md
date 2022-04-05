@@ -63,7 +63,7 @@ Atualmente estou concentrando meus estudos em CSS, JavaScript, React.js, Ionic, 
   <a href="https://discord.gg/seu-server">
     <img
       align="center"
-      src="https://img.shields.io/badge/Whastapp-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+      src="https://img.shields.io/badge/Whastapp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=00FFFF">
   </a>
   <a href="https://www.linkedin.com/in/afonso-ramon-de-araujo-teles-73847b18b">
     <img
