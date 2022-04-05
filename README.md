@@ -54,12 +54,7 @@ Atualmente estou concentrando meus estudos em CSS, JavaScript, React.js, Ionic, 
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
-    />
-  </a>
+ 
   <a href="https://api.whatsapp.com/send?phone=556282692852&text=Olá estou entrando em contato através do seu portfólio">
     <img
       align="center"
