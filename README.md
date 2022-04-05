@@ -48,7 +48,7 @@ Atualmente estou concentrando meus estudos em CSS, JavaScript, React.js, Ionic, 
   
   
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://www.instagram.com/afonso.telles">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
