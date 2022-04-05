@@ -77,5 +77,4 @@ Atualmente estou concentrando meus estudos em CSS, JavaScript, React.js, Ionic, 
     />
   </a>
 </p>
-<h5 align="center">Seu @</h5>
 </details>
