@@ -29,7 +29,7 @@
     Estou sempre em busca de aperfeiçoamento, focando na criação de interfaces intuitivas, responsivas e performáticas.<br /> <br />
     Atualmente, concentro meus estudos em React Native, Ionic, UX/UI, Clean Code e metodologias ágeis, com o objetivo de desenvolver aplicações ainda mais eficientes e escaláveis.<br /> <br />
     ✓ Inglês avançado (C1).
-    </p>
+    </p><br /> <br />
 
    <h3 align="center">About me:</h3> 
    <p align="center"> I am a Front-End Developer passionate about programming and technology, specializing in web development. I have experience in creating client-side applications for websites, landing pages, hotsites, blogs, and web systems.<br /> <br />
