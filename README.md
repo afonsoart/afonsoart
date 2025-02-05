@@ -11,7 +11,7 @@
 </p>
 <h4 align="center">
 <details>
-<summary>Mais...</summary>
+<summary>Read More...</summary>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, my name is Afonso Ramon</h1></img>
 
 
