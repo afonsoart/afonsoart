@@ -27,7 +27,6 @@
 <h3 align="center">Sobre mim:</h3>
   <p align="center">
     Sou um Desenvolvedor Front-End apaixonado por programação e tecnologia, especializado no desenvolvimento web. Tenho experiência na criação de aplicações client-side para websites, landing pages, hotsites, blogs e sistemas web.
-    
     Trabalho com diversas tecnologias, incluindo HTML, CSS, SASS, JavaScript, jQuery, React.js, Next.js, Tailwind, PHP, MySQL, Bootstrap e WordPress. Além disso, utilizo ferramentas de design como Adobe XD e Photoshop para aprimorar a experiência do usuário.
     
     Estou sempre em busca de aperfeiçoamento, focando na criação de interfaces intuitivas, responsivas e performáticas.
