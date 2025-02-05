@@ -37,18 +37,20 @@
     ✓ Inglês avançado (C1).
     </p>
 
+    <hr></hr>
+
     <h3 align="center">About Me:</h3>
-<p align="center">
-  I am a Front-End Developer passionate about programming and technology, specializing in web development. I have experience in creating client-side applications for websites, landing pages, hotsites, blogs, and web systems.
-  
-  I work with various technologies, including HTML, CSS, SASS, JavaScript, jQuery, React.js, Next.js, Tailwind, PHP, MySQL, Bootstrap, and WordPress. Additionally, I use design tools like Adobe XD and Photoshop to enhance the user experience.
-  
-  I am always looking for improvement, focusing on creating intuitive, responsive, and high-performance interfaces.
-  
-  Currently, I am focusing my studies on React Native, Ionic, UX/UI, Clean Code, and agile methodologies, aiming to develop even more efficient and scalable applications.
-  
-  ✓ Advanced English (C1).
-</p>
+     <p align="center">
+       I am a Front-End Developer passionate about programming and technology, specializing in web development. I have experience in creating client-side applications for websites, landing pages, hotsites, blogs, and web systems.
+       
+       I work with various technologies, including HTML, CSS, SASS, JavaScript, jQuery, React.js, Next.js, Tailwind, PHP, MySQL, Bootstrap, and WordPress. Additionally, I use design tools like Adobe XD and Photoshop to enhance the user experience.
+       
+       I am always looking for improvement, focusing on creating intuitive, responsive, and high-performance interfaces.
+       
+       Currently, I am focusing my studies on React Native, Ionic, UX/UI, Clean Code, and agile methodologies, aiming to develop even more efficient and scalable applications.
+       
+       ✓ Advanced English (C1).
+     </p>
   
   
 <p align="center">
