@@ -1,7 +1,6 @@
 [![banner](./afonso_banner.png)](https://github.com/afonsoart)
 
- <h2 align="center">🚀 Minhas Skills </h2>
- <h2 align="center">🚀 My Skills </h2>
+<h2 align="center">🚀 My Skills </h2>
 <p align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -13,7 +12,6 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Afonso Ramon</h1></img>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, my name is Afonso Ramon</h1></img>
 
 
